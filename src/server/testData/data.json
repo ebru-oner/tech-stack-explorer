@@ -1,0 +1,26 @@
+[
+  {
+    "title": "React.js",
+    "description": "React related description"
+  },
+  {
+    "title": "Node.js",
+    "description": "Node.js related description"
+  },
+  {
+    "title": "TypeScript",
+    "description": "TypeScript related description"
+  },
+  {
+    "title": "Web development",
+    "description": "Web development related description"
+  },
+  {
+    "title": "Builders",
+    "description": "Builders description"
+  },
+  {
+    "title": "Testing",
+    "description": "Testing description"
+  }
+]
